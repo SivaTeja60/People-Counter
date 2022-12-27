@@ -9,21 +9,22 @@ body {
 }
 .container {
     background: #c1aba6;
-    max-width: 80%;
-    margin: auto;
+    max-width: 70%;
+    height: 40%;
+    margin: 20px auto;
     border: 3px solid black;
     border-radius: 10px;
 }
 h1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     
 }
 
 h2 {
     font-size: 50px;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 button {
@@ -33,7 +34,7 @@ button {
     color: white;
     font-weight: bold;
     width: 200px;
-    margin-bottom: 5px;
+    margin: 15px;
     border-radius: 5px;
 }
 
